@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "admin",
+    "cpf": null,
+    "email": "admin@exemplo.com",
+    "senha": "admin",
+    "perfil": 0
+  },
+  {
+    "nome": "Everton Mendes",
+    "cpf": "09845191495",
+    "email": "everton.mendes@creative.com",
+    "senha": "123",
+    "perfil": 1
+  }
+]
